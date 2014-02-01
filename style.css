@@ -2,7 +2,7 @@ body {
     color: black;
   }
   a {
-    color: black;
+    color: #00FF00;
   }
   * {
   margin: 0;
@@ -18,12 +18,12 @@ body {
   line-height: 1.5;
 }
 header {
-  background: url(imgs/david-byrne.jpg);
+  background: url(imgs/talking-heads.jpg);
 }
 header h1 {
   height: 400px;
   line-height: 400px;
-  color: white;
+  color: #00FF00;
   font-family: helvetica, arial, sans-serif;
   font-size: 144px;
   text-align: center;
